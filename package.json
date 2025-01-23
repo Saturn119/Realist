@@ -1,0 +1,22 @@
+{
+  "name": "realist",
+  "version": "1.0.0",
+  "description": "Project for helping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saturn119/Realist.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saturn119/Realist/issues"
+  },
+  "homepage": "https://github.com/Saturn119/Realist#readme"
+}
